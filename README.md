@@ -1,4 +1,5 @@
-# XC is short name
+# XC 
+XC is short name, across multiple platforms
 
 # XCode::Block
 Visual X code::Block --- powerful functional blocks for future infrastructure
