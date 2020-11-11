@@ -1,5 +1,9 @@
 # XC 
 XC is short name, across multiple platforms
+build the code block for the call
+run the XC for the builder and write.
+
+XC is Block Chain Space
 
 # XCode::Block
 Visual X code::Block --- powerful functional blocks for future infrastructure
